@@ -1,4 +1,3 @@
 {
-  "saludo1": ["hola"],
-  "saludo2": ["chau"]
+  "saludo": [  { "id": 1, "body": "hola"}, { "id": 2, "body": "chau"} ]      
 }
