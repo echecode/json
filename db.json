@@ -1,1 +1,4 @@
-{ "respuesta":"saludo!"}
+{
+  "saludo1": ["hola"],
+  "saludo2": ["chau"]
+}
