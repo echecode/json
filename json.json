@@ -1,4 +1,6 @@
-{[{"name":"Juan","surname":"Perez"},
+[ 
+  {"name":"Juan","surname":"Perez"},
   {"name":"Gottfried","surname":"Leibniz"}, 
   {"name":"Frodo","surname":"Baggins"} 
- ]} 
+] 
+ 
